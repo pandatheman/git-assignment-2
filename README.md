@@ -29,7 +29,7 @@ git push -u origin writing
 
 4. Make a change to the line below in this file: \
 High School: Herriman High School
-INtended Major: Aerospace Engineering
+Intended Major: Aerospace Engineering
 
 5. Add, commit, and push your changes: \
 git add README.md \
